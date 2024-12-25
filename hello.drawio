@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="Ah-OwFhCd8Mk3FnU-RTh">
-    <mxGraphModel dx="1858" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2683" dy="2238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#CCCCCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,11 +86,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vd2gOB1dZQIPZLaLdQH1-37" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320.00000000000006" y="-132" width="78.57" height="55" as="geometry" />
+          <mxGeometry x="330" y="-132" width="78.57" height="55" as="geometry" />
         </mxCell>
         <mxCell id="vd2gOB1dZQIPZLaLdQH1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" target="vd2gOB1dZQIPZLaLdQH1-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="-110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-95" y="-109" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
