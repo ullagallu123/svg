@@ -86,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vd2gOB1dZQIPZLaLdQH1-37" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-132" width="78.57" height="55" as="geometry" />
+          <mxGeometry x="330" y="-130" width="78.57" height="55" as="geometry" />
         </mxCell>
         <mxCell id="vd2gOB1dZQIPZLaLdQH1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" target="vd2gOB1dZQIPZLaLdQH1-35">
           <mxGeometry relative="1" as="geometry">
